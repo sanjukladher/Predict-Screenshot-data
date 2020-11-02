@@ -1,9 +1,9 @@
 # Predict-Screenshot-data
 
 This project consist of three domains
-# 1: Image Classification
-# 2: Text-Image Processing
-# 3: Text-Mining (Natural Language Processing)
+*** 1: Image Classification ***
+*** 2: Text-Image Processing ***
+*** 3: Text-Mining (Natural Language Processing) ***
 
 
 # Current Status:
